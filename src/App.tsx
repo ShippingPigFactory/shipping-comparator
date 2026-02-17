@@ -16,7 +16,6 @@ function App() {
     <div className="app-container">
       <header>
         <h1>配送コスト比較シミュレーター</h1>
-        <p>佐川急便 vs ヤマト運輸</p>
       </header>
 
       {/* 比較結果のサマリー */}
